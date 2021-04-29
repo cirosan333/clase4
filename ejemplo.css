@@ -1,0 +1,28 @@
+body {
+    font-family: Montserrat;
+    background: #f06d06;
+    
+  }
+h2 {
+  color: white;
+  text-align: center;
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  height: 50%;
+  width: 50%;
+
+  
+}
+h1 {
+  color: white;
+  text-align: center;
+  position: absolute;
+  top: 38%;
+  left: 25%;
+  height: 30%;
+  width: 50%;
+  
+  
+}
+
